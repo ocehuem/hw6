@@ -1,0 +1,21 @@
+body{
+    background-color: #2a2a2a;
+}
+h1{text-align: center;
+color: aliceblue;}
+div{
+    vertical-align: auto;
+    margin:auto;
+}
+table{
+    background-color: rgb(209, 209, 209);
+    color: rgb(0,0,0);
+    text-align: center;
+    margin: auto;
+    box-shadow: rgba(137, 228, 244, 0.638) -1px -1px 1px, rgba(254, 86, 201, 0.66) 2px 2px 1px;
+}
+input[type="button"]{
+    width:1cm;
+    background-color: aquamarine;
+}
+input{background-color: rgb(135, 164, 253);}
